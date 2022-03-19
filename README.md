@@ -2,8 +2,8 @@
 
 <p align="center"><i>Do you have any question? Contact me on <a href="https://www.linkedin.com/in/saleh-sargolzaee">LinkedIn</a></i></p>
 <br>
-In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset comes from the <a href = "https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset">UCI Machine Learning Database</a>.
-It's one of My Udacity projects that I have made to improve my skills in building a neural network from the ground up.
+In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset that comes from the <a href = "https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset">UCI Machine Learning Database</a>.
+It's one of my Udacity projects that I have made to improve my skills in building a neural network from the ground up.
 
 
 Please don't use it to copy the project. 
